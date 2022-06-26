@@ -5,9 +5,6 @@ import Head from 'next/head';
 // Components
 import Header from '../components/header';
 
-// Styles
-import '../styles/global.scss';
-
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <Fragment>
